@@ -1,4 +1,4 @@
-package sabbane.design_patterns.design.decorator;
+package sabbane.design_patterns.structural.decorator;
 
 public class BeverageDecorator implements Beverage {
 	protected Beverage beverage;

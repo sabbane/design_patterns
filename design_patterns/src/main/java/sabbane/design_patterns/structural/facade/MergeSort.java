@@ -1,4 +1,4 @@
-package sabbane.design_patterns.design.facade;
+package sabbane.design_patterns.structural.facade;
 
 public class MergeSort implements Algorithm {
 
