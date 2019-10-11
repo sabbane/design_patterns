@@ -2,9 +2,7 @@ package sabbane.design_patterns.design.decorator;
 
 public class BeverageDecorator implements Beverage {
 	protected Beverage beverage;
-	
-	
-	
+
 	public BeverageDecorator(Beverage beverage) {
 		super();
 		this.beverage = beverage;
